@@ -14,4 +14,4 @@ steps:
     password:
       from_secret: p_docker
     repo: akmalavloniharness/drone-python-starter
-    tags: 1234235
+    tags: v1234708235
