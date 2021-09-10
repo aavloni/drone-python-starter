@@ -14,4 +14,4 @@ steps:
     password:
       from_secret: p_docker
     repo: akmalavloniharness/drone-python-starter
-    tags: "testparalleldeployment"
+    tags: "testparallel2"
